@@ -1,0 +1,133 @@
+export const modelosRinon = [
+  {
+    id: 'rinon-15x20',
+    nombre: '15 × 20',
+    tipo: 'riñón',
+    descripcion: 'Manija troquelada',
+    precios: {
+      50: 24000,
+      100: 42000,
+      200: 72000,
+      300: 98000,
+      400: 134000,
+      500: 160000,
+    },
+  },
+  {
+    id: 'rinon-20x30',
+    nombre: '20 × 30',
+    tipo: 'riñón',
+    descripcion: 'Manija troquelada',
+    precios: {
+      50: 27000,
+      100: 45000,
+      200: 83000,
+      300: 118000,
+      400: 157000,
+      500: 197000,
+    },
+  },
+  {
+    id: 'rinon-20x40',
+    nombre: '20 × 40',
+    tipo: 'riñón',
+    descripcion: 'Manija troquelada',
+    precios: {
+      50: 30000,
+      100: 55000,
+      200: 90000,
+      300: 130000,
+      400: 165000,
+      500: 210000,
+    },
+  },
+  {
+    id: 'rinon-30x40',
+    nombre: '30 × 40',
+    tipo: 'riñón',
+    descripcion: 'Manija troquelada',
+    precios: {
+      50: 33000,
+      100: 56000,
+      200: 96000,
+      300: 137000,
+      400: 183000,
+      500: 228000,
+    },
+  },
+]
+
+export const modelosAsas = [
+  {
+    id: 'asas-30x30',
+    nombre: '30 × 30',
+    tipo: 'asas',
+    descripcion: 'Manija tipo asa',
+    precios: {
+      50: 31000,
+      100: 58000,
+      200: 105000,
+      300: 146000,
+      400: 192000,
+      500: 238000,
+    },
+  },
+  {
+    id: 'asas-30x40',
+    nombre: '30 × 40',
+    tipo: 'asas',
+    descripcion: 'Manija tipo asa',
+    precios: {
+      50: 33000,
+      100: 61000,
+      200: 111000,
+      300: 165000,
+      400: 218000,
+      500: 272000,
+    },
+  },
+  {
+    id: 'asas-45x40',
+    nombre: '45 × 40',
+    tipo: 'asas',
+    descripcion: 'Manija tipo asa',
+    precios: {
+      50: 36000,
+      100: 64000,
+      200: 124000,
+      300: 176000,
+      400: 233000,
+      500: 290000,
+    },
+  },
+  {
+    id: 'asas-50x40',
+    nombre: '50 × 40',
+    tipo: 'asas',
+    descripcion: 'Manija tipo asa',
+    precios: {
+      50: 39000,
+      100: 71000,
+      200: 137000,
+      300: 203000,
+      400: 264000,
+      500: 320000,
+    },
+  },
+  {
+    id: 'asas-60x40',
+    nombre: '60 × 40',
+    tipo: 'asas',
+    descripcion: 'Manija tipo asa',
+    precios: {
+      50: 44000,
+      100: 83000,
+      200: 161000,
+      300: 239000,
+      400: 317000,
+      500: 395000,
+    },
+  },
+]
+
+export const cantidadesPack = [50, 100, 200, 300, 400, 500]
